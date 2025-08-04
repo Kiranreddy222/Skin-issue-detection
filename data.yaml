@@ -2,7 +2,7 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 6 
+nc: 6  
 names: ['Acne', 'Blackheads', 'Eczema', 'Flakiness', 'Pigmentation', 'rosacea']
 
 roboflow:
